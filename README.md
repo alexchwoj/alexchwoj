@@ -716,9 +716,22 @@
 ![](https://anlucas.neocities.org/zxsoftware.gif)
 
 
+<p align="center">
+  <a href="https://www.youtube.com/c/Hyaxe?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/Hyaxe">
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/RealAtom">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/RealAtom?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/◘/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/RealAtom-profile-views"/></a>
+</p>
+
 <a href="https://github.com/RealAtom">
   <img src="https://github-readme-stats.vercel.app/api?username=RealAtom&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/RealAtom">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealAtom&layout=compact&theme=dark" />
 </a>
+
+<img alt="RealAtom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RealAtom&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
