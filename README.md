@@ -722,3 +722,5 @@
 <a href="https://github.com/RealAtom">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealAtom&layout=compact&theme=dark" />
 </a>
+
+![Chart not found](https://raw.githubusercontent.com/RealAtom/RealAtom/master/charts/bar_graph.png) 
