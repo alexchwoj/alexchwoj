@@ -723,8 +723,6 @@
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/RealAtom">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/RealAtom?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/◘/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/RealAtom-profile-views"/></a>
 </p>
 
 <a href="https://github.com/RealAtom">
